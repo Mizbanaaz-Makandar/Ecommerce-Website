@@ -22,3 +22,10 @@ The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
 See the section about deployment for more information.
+
+👇
+
+🛒 eCommerce Website
+
+A full-stack eCommerce web application that allows users to browse products, add items to the cart, and place orders.
+This project is built to understand real-world web development concepts and demonstrate practical skills in frontend, backend, and database integration.
