@@ -66,3 +66,21 @@ CSS
 JavaScript
 
 React.js (if applicable)
+
+Backend
+
+Node.js
+
+Express.js
+
+Database
+
+MongoDB
+
+Other Tools
+
+JWT (Authentication)
+
+Multer (Image Uploads)
+
+Git & GitHub
