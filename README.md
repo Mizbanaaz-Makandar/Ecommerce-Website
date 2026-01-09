@@ -55,3 +55,14 @@ Add / Update / Delete Products
 Manage Categories
 
 View Orders & Users
+
+🛠️ Tech Stack
+Frontend
+
+HTML
+
+CSS
+
+JavaScript
+
+React.js (if applicable)
