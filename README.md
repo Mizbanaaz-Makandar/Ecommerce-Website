@@ -34,17 +34,17 @@ This project is built to understand real-world web development concepts and demo
 📌 Features
 👤 User Features
 
-User Registration & Login (Authentication)
+-User Registration & Login (Authentication)
 
-Browse Products by Category
+-Browse Products by Category
 
-View Product Details
+-View Product Details
 
-Add / Remove Products from Cart
+-Add / Remove Products from Cart
 
-Place Orders
+-Place Orders
 
-Responsive UI (Mobile & Desktop friendly)
+-Responsive UI (Mobile & Desktop friendly)
 
 🔐 Admin Features
 
