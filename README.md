@@ -48,13 +48,13 @@ Responsive UI (Mobile & Desktop friendly)
 
 🔐 Admin Features
 
-Admin Login
+-Admin Login
 
-Add / Update / Delete Products
+-Add / Update / Delete Products
 
-Manage Categories
+-Manage Categories
 
-View Orders & Users
+-View Orders & Users
 
 🛠️ Tech Stack
 Frontend
