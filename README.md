@@ -55,31 +55,31 @@ This project is built to understand real-world web development concepts and demo
 
 -View Orders & Users
 
-Tech Stack
-Frontend
+## Tech Stack
+# Frontend
 
-HTML
+1.HTML
 
-CSS
+2.CSS
 
-JavaScript
+3.JavaScript
 
-React.js (if applicable)
+4.React.js (if applicable)
 
-Backend
+# Backend
 
-Node.js
+1.Node.js
 
-Express.js
+2.Express.js
 
-Database
+3.Database
 
-MongoDB
+4.MongoDB
 
-Other Tools
+# Other Tools
 
-JWT (Authentication)
+-JWT (Authentication)
 
-Multer (Image Uploads)
+-Multer (Image Uploads)
 
-Git & GitHub
+-Git & GitHub
